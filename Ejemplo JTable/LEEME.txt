@@ -1,0 +1,30 @@
+******************************************************************
+|                           CODEJAVU                             |
+******************************************************************
+
+
+Si estas leyendo esto es porque descargaste la aplicación y porque de una u otra forma te interesó el articulo, si esta entrada te sirvió y generó esa curiosidad en ti, te invito a que compartir o a dejar tu comentario, ayudando a que este y otros articulos llegen a mas personas.
+
+
+
+
+Sobre El Blog...
+
+CoDejaVu es un blog personal con el objetivo de compartir conocimiento y vivencias en torno al desarrollo de Software, todo ha sido con base a mi experiencia como Ingeniero de Sistemas y Desarrollador, es un espacio donde se puede brindar ayuda por medio de lecciones aprendidas.
+
+
+
+El Proyecto...
+
+Los ejemplos son desarrollados en el IDE Eclipse, se adjunta el proyecto completo de forma que solo sea cuestión de Importar el proyecto y Listo.
+
+
+
+Muchas Gracias.
+
+Att: Cristian David Henao H.
+
+
+******************************************************************
+|                                                                |
+******************************************************************
